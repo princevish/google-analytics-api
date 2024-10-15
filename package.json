@@ -1,0 +1,16 @@
+{
+  "name": "google-analytics-api",
+  "version": "1.0.0",
+  "main": "dis/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-analytics/data": "^4.9.0",
+    "dotenv": "^16.4.5"
+  }
+}
